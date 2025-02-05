@@ -1,4 +1,4 @@
-# DFU
+# DFU-Detection
 
 Overview
 This project aims to enhance early detection and intervention for Diabetic Foot Ulcers (DFUs) using machine learning integrated into a mobile application. The system predicts DFUs with high accuracy by analyzing medical images and patient demographics.
