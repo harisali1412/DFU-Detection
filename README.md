@@ -1,16 +1,23 @@
-# dfu
+# DFU
 
-A new Flutter project.
+Overview
+This project aims to enhance early detection and intervention for Diabetic Foot Ulcers (DFUs) using machine learning integrated into a mobile application. The system predicts DFUs with high accuracy by analyzing medical images and patient demographics.
 
-## Getting Started
+Key Features
+Machine Learning-Based Prediction: Uses the most optimal model for DFU classification.
+User-Friendly Mobile App: Includes registration, login, and diagnosis screens for uploading medical images and receiving predictions.
+Flask API Integration: Enables real-time predictions and treatment suggestions.
+Healthcare Impact: Assists healthcare professionals and diabetics in detecting DFUs early and improving patient outcomes.
 
-This project is a starting point for a Flutter application.
+Technology Stack
+Mobile Application
+Machine Learning Models
+Flask (API Development)
+Medical Image Analysis
 
-A few resources to get you started if this is your first Flutter project:
+Usage
+Register/Login into the mobile app.
+Upload a medical image for analysis.
+Receive predictions & recommendations for DFU prevention.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project bridges the gap between research and real-world applications, ensuring better diabetic foot management through technology.
